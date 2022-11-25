@@ -11,8 +11,8 @@ To be able to run our program, make sure you have the following things installed
 - 
 
 # How to Use the Program
-# EXTRA INFORMATION ABOUT THE CODE
-# CREDITS
+# Extra information about the code
+# Credits
 The authors of this project are:
 
 Pablo Di Terlizzi
