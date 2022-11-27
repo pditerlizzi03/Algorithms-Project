@@ -87,7 +87,7 @@ To be able to run our program, make sure you have the following things installed
 # Extra information about the code 
 To carry out our project we used two types of algorithms:
 - Hash Tables: A data structure which stores data in an associative manner. In a hash table, data is stored in an array format, where each data value has its own unique index value. We used hash tables to store the data of the alcoholic beverages and the alcohol volume of each one.
-- Recursion: A common mathematical and programming concept. It means that a function calls itself. This has the benefit of meaning that you can loop through data to reach a result. We used recursion for
+- Recursion: A common mathematical and programming concept. It means that a function calls itself. This has the benefit of meaning that you can loop through data to reach a result. We used recursion to make the code simplier and to make the solutions clearer.
 # Credits
 The authors of this project are:
 
